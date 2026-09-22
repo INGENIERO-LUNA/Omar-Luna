@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'ingrese el capital inicial'
+5
+1
+1
+c
+4
+1
+34
+'ingrese el porcentaje de interes'
+5
+1
+1
+i
+4
+1
+19
+'ingrese el tiempo'
+5
+1
+1
+t
+6
+1
+1
+i
+11
+c*(i/100)*t
+4
+1
+28
+'el interes ganado es:'  , i
+1
